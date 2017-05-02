@@ -21,7 +21,7 @@
   "author": "",
   "license": "BSD",
   "devDependencies": {
-    "tape": "~1.0.2",
-    "tap": "~0.4.2"
+    "tape": "~4.6.3",
+    "tap": "~10.3.2"
   }
 }
